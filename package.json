@@ -1,0 +1,22 @@
+{
+  "name": "waremboafriq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAOMIECATE/Warembo-Fashions-Afric.git"
+  },
+  "author": "naomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NAOMIECATE/Warembo-Fashions-Afric/issues"
+  },
+  "homepage": "https://github.com/NAOMIECATE/Warembo-Fashions-Afric#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}

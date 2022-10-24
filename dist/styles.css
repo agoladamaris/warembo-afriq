@@ -1,0 +1,120 @@
+body{        
+    background-color: #e0ba7e;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    font-family: 'Courgette', cursive; ;
+    padding-top: 100px;
+    font-size: 3rem;
+    font-weight: bold;
+
+
+}
+h2{
+    text-align: center;
+    color: white;
+    
+}
+h4{
+    color: aqua;
+}
+a:link {
+    text-decoration: none;
+    color:lime;
+
+}
+a:visited {
+    color:brown ;
+}
+a:hover {
+    background-color: white;
+    font-size: 20px;
+}
+a:active {
+text-transform: uppercase;
+}
+ul{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: end;
+    top: 0;
+
+    /* word-spacing: 2px; */
+
+}
+ul li{
+    padding: 10px;
+    margin-right: 60px;
+}
+p{
+    color: white;
+}
+.gallery{
+    padding-left: 30px;
+}
+.gallery1 {
+    padding: 20px;
+    border-radius: 250px;
+    margin-right: 20px;
+    padding-left: 30px;
+}
+.gallery2 {
+    padding: 20px;
+    border-radius: 250px;
+    padding-left: 30px;
+}
+.gallery3 {
+    padding: 20px;
+    border-radius: 250px;
+    padding-left: 30px;
+}
+.gallery4 {
+    padding: 20px;
+    border-radius: 250px;
+    padding-left: 30px;
+}
+.gallery5 {
+    padding: 20px;
+    border-radius: 250px;
+    padding-left: 30px;
+}
+.gallery6 {
+    padding: 20px;
+    border-radius: 250px;
+    padding-left: 30px;
+}
+.gallery7 {
+    padding: 20px;
+    border-radius: 250px;
+    padding-left: 30px;
+}
+.gallery8 {
+    padding: 20px;
+    border:none;
+    border-radius: 250px;
+    padding-left: 30px;
+}
+.gallery9 {
+    padding: 20px;
+    border: none;
+    border-radius: 250px;
+    padding-left: 30px;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    /* background-color: burlywood; */
+    position: fixed;
+    top: 0;
+}
+.logo1{
+    background-color:#e0ba7e;
+}
+

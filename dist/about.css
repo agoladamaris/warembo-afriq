@@ -1,0 +1,46 @@
+body{
+    background-color: burlywood;
+}
+h2{
+    color: darkorange;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 500px;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+h4{
+    color: darkorange;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 300px;
+}
+p{
+    font-style: oblique;
+    color: white;
+    text-align: center; 
+    letter-spacing: normal;
+    line-height: 3rem;
+    font-size: 1.5rem;
+}
+ul{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: end;
+    top: 0;
+    /* word-spacing: 2px; */
+
+}
+ul li{
+    padding: 10px;
+    margin-right: 60px;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    /* background-color: burlywood; */
+    position: fixed;
+    top: 0;
+}

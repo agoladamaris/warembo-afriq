@@ -1,0 +1,266 @@
+body{
+    background-color: burlywood;
+}
+h2{
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;    
+    padding-top: 100px;
+
+}
+p{
+  color: darkred;
+  font-size: 1.5rem;
+  text-align: center;
+  font-style: oblique;
+
+}
+/* .line {
+    display: inline-block;
+    position: relative;
+
+}
+.line-2 {
+    position: relative;
+bottom: 40px;
+    left: 200px;
+}
+.line-3 {
+    position: relative;
+    bottom: 100px;
+    left: 500px;
+} */
+.hr-lines:before{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background-color:gray;
+}
+.hr-lines{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+.hr-lines:after{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    background-color:gray;
+}.hr-line1:before{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background-color:gray;
+}
+.hr-line1{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+.hr-line1:after{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    background-color:gray;
+}
+.hr-line2:before{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background-color:gray;
+}
+.hr-line2{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+.hr-line2:after{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    background-color:gray;
+}.hr-line3:before{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background-color:gray;
+}
+.hr-line3{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+.hr-line3:after{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    background-color:gray;
+}
+.hr-line4:before{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background-color:gray;
+}
+.hr-line4{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+.hr-line4:after{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    background-color:gray;
+}
+.hr-line5:before{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background-color:gray;
+}
+.hr-line5{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+.hr-line5:after{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    background-color:gray;
+}
+.hr-line6:before{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background-color:gray;
+}
+.hr-line6{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+.hr-line6:after{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    background-color:gray;
+}
+.hr-line7:before{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background-color:gray;
+}
+.hr-line7{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+.hr-line7:after{
+    content:"";
+    display: block;
+    height:2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    background-color:gray;
+}
+
+
+ul{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: end;
+    top: 0;
+    /* word-spacing: 2px; */
+
+}
+ul li{
+    padding: 10px;
+    margin-right: 60px;
+}
+.p-one{
+
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    /* background-color: burlywood; */
+    position: fixed;
+    top: 0;
+}
